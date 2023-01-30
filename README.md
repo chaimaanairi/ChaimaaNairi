@@ -6,4 +6,4 @@
   </p>
   
 
-I am a 4th year computer engineering student at Uludag University in Bursa. Dynamic, organized and perfectly integrated into the work group. I am mainly interested in everything related to blockchain technology, smart contract application development, data science, and big data systems architecture. I am interested in implementing the principles of blockchain architecture to solve acute problems related to data storage, security, transaction processing, intermediaries, and property.
+I am a 4th year computer engineering student at Uludag University in Bursa. I am mainly interested in everything related to blockchain technology, smart contract application development, data science, and big data systems architecture. I am interested in implementing the principles of blockchain architecture to solve acute problems related to data storage, security, transaction processing, intermediaries, and property.
