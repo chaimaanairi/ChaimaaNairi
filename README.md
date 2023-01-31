@@ -11,4 +11,9 @@
 I am a 4th year computer engineering student at Uludag University in Bursa. I am mainly interested in everything related to blockchain technology, smart contract application development, data science, and big data systems architecture. I am interested in implementing the principles of blockchain architecture to solve acute problems related to data storage, security, transaction processing, intermediaries, and property.
 
 
- 
+ <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
