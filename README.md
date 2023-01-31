@@ -31,12 +31,11 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 </p>
 
 
-
-
 <h2>GitHub Stats</h2>
 <p><img src="https://github-readme-stats.vercel.app/api?username=ChaimaaNairi&amp;show_icons=true" alt="GitHub Stats"></p>
 
 
+| <a href="https://github.com/ChaimaaNairi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaimaaNairi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaimaa's github stats" /></a> | <a href="https://github.com/ChaimaaNairi/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=buefy&hide_border=true" /></a> |
 
 
 
