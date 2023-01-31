@@ -14,7 +14,6 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
-  <--! Web dev-->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45" height="45"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="sass" width="45" height="45"/>   
