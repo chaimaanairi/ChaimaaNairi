@@ -1,3 +1,4 @@
+[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
 
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
