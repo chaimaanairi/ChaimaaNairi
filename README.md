@@ -1,3 +1,24 @@
+
+Hey there 👋
+
+I’m chaimaa nairi, a full-stack engineer, creative coder and self-proclaimed designer who specializes in front-end development. I make it my mission to translate user-focused designs into pixel-perfect websites or applications that run blazing fast.
+
+
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
+## 📌 Pinned Repositories
+
+<br>
+
+
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
     <a href="https://twitter.com/ChaimaaNairi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
