@@ -1,4 +1,4 @@
-[![]()](https://github.com/ChaimaaNairi))
+[![]()](https://github.com/ChaimaaNairi)
 
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
