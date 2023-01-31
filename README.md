@@ -1,5 +1,4 @@
 
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/profile.gif)](https://www.adamalston.com/)
 
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
