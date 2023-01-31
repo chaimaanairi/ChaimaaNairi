@@ -13,5 +13,9 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 
  
 
-![alt text](https://media.giphy.com/media/tQHtASL5mC8cKPyfSU/giphy-downsized-large.gif)
-
+ ![]([name-of-giphy.gif](https://media.giphy.com/media/tQHtASL5mC8cKPyfSU/giphy-downsized-large.gif))
+ 
+ 
+ 
+ 
+ 
