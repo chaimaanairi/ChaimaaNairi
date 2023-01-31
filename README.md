@@ -34,7 +34,7 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 
 
 <h2>GitHub Stats</h2>
-<p><img src="https://github-readme-stats.vercel.app/api?username=mokkapps&amp;show_icons=true" alt="GitHub Stats"></p>
+<p><img src="" alt="GitHub Stats"></p>
 
 
 
