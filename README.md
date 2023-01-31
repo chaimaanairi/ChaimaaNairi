@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-<h1 align="center">✨✨✨</h1>
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
     <a href="https://twitter.com/ChaimaaNairi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -13,7 +12,7 @@
 I am a 4th year computer engineering student at Uludag University in Bursa. I am mainly interested in everything related to blockchain technology, smart contract application development, data science, and big data systems architecture. I am interested in implementing the principles of blockchain architecture to solve acute problems related to data storage, security, transaction processing, intermediaries, and property.
 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="45" height="45" />
