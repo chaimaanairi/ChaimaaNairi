@@ -11,7 +11,7 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 
 
 
- 📝 Latest Blog Posts
+## 📝 Latest Blog Posts
 
 <br>
 
