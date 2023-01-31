@@ -40,7 +40,7 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 </p>
 
 
-<h2>GitHub Stats</h2>
+<h2>👨‍💻 GitHub Stats</h2>
 
 <div align="center"> 
 <a href="https://github.com/ChaimaaNairi/github-readme-stats">
