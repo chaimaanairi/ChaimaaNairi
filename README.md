@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hello!&height=100&section=header"/>
 </p>
-
+<h1 align="center">✨✨✨</h1>
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
     <a href="https://twitter.com/ChaimaaNairi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
@@ -43,11 +43,11 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 <h2>👨‍💻 GitHub Stats</h2>
 
 <div align="center"> 
-  ✨
+
 <a href="https://github.com/ChaimaaNairi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaimaaNairi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaimaa's github stats" />
 </a> 
-✨
+
 <a href="https://github.com/ChaimaaNairi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=buefy&hide_border=true" />
 </a> 
