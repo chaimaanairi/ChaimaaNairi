@@ -30,7 +30,7 @@ I am a 4th year computer engineering student at Uludag University in Bursa. I am
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/truffle/truffle-original.svg" alt="truffle" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="truffle" width="45" height="45"/>   
 
 </p>
 
