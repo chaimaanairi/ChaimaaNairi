@@ -1,7 +1,5 @@
 
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
-
 <h1 align="center">Hi, I'm Chaimaa 👋</h1>
 <p align="center">
     <a href="https://twitter.com/ChaimaaNairi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
