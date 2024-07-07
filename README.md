@@ -55,7 +55,7 @@ Hello there! I am a technology enthusiast with a passion for computer science an
 <a href="https://github.com/ChaimaaNairi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=buefy&hide_border=true" />
 </a> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&" alt="ChaimaaNairi" /></p>
 
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&" alt="ChaimaaNairi" /></p>
