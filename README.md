@@ -58,3 +58,4 @@ Hello there! I am a technology enthusiast with a passion for computer science an
 
 </div>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&" alt="ChaimaaNairi" /></p>
