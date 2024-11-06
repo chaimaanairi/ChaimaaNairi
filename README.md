@@ -10,7 +10,7 @@
 
 Hello there! I am a technology enthusiast with a passion for computer science and development. I enjoy exploring and learning about new technologies and programming languages.
 
-📫 **How to reach me**: [nairichaimaa@gmail.com](mailto:nairichaimaa@gmail.com)
+📫 **How to reach me**: [chaimaanairi99@gmail.com](mailto:chaimaanairi99@gmail.com)
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
