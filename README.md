@@ -7,6 +7,7 @@
     <a href="https://twitter.com/ChaimaaNairi"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://medium.com/@chaimaanairi"><img src="https://img.shields.io/badge/medium-%2312100E?style=flat&logo=medium&logoColor=white"/></a>
     <a href="https://www.instagram.com/chaimaanairi/"><img src="https://img.shields.io/badge/instagram-%23E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.credly.com/users/chaimaa-nairi"><img src="https://img.shields.io/badge/credly-%230072B0?style=flat&logo=credly&logoColor=white"/></a>
 </p>
 
 <table>
