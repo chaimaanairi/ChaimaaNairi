@@ -22,7 +22,7 @@
 </table>
 
 
-📫 **How to reach me**: [chaimaanairi99@gmail.com](mailto:chaimaanairi99@gmail.com)
+📫 **How to reach me**: [nairichaimaa@gmail.com](mailto:nairichaimaa@gmail.com)
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
