@@ -15,8 +15,7 @@
 Hello there! I am a Data Engineer and technology enthusiast with a passion for computer engineering and development. I enjoy exploring and learning about new technologies and programming languages.
     </td>
     <td align="right">
-
-      <img src="[https://github.com/user-attachments/assets/086c537e-a725-4a86-a0b6-e97526770976](https://github.com/user-attachments/assets/5bda0258-eedc-4198-918a-ebb875547efc)" alt="githubimageprofile" width="600" />
+      <img src="https://github.com/user-attachments/assets/086c537e-a725-4a86-a0b6-e97526770976" alt="githubimageprofile" width="600" />
     </td>
   </tr>
 </table>
