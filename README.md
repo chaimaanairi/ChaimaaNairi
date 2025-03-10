@@ -62,19 +62,19 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 
 <h2>👨‍💻 GitHub Stats</h2>
 
-<p align="center">
-<a href="https://github.com/ChaimaaNairi">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaimaaNairi&show_icons=true&include_all_commits=true&theme=tokyonight" />
-</a>
+<div align="center"> 
 
-<a href="https://github.com/ChaimaaNairi">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=tokyonight" />
-</a>
-</p>
+<a href="https://github.com/ChaimaaNairi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChaimaaNairi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Chaimaa's github stats" />
+</a> 
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&theme=tokyonight" />
-</p>
+<a href="https://github.com/ChaimaaNairi/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=buefy&hide_border=true" />
+</a> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&" alt="ChaimaaNairi" /></p>
+
+</div>
+
 
 
 <p align="center">
