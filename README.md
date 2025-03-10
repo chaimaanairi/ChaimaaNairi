@@ -80,10 +80,11 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 <a href="https://github.com/ChaimaaNairi/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaimaaNairi&layout=compact&theme=buefy&hide_border=true" />
 </a> 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&" alt="ChaimaaNairi" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaimaaNairi&theme=buefy&hide_border=true" alt="ChaimaaNairi's Streak Stats"/>
+</p>
 
 </div>
-
 
 
 <p align="center">
