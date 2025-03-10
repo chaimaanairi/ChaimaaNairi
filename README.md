@@ -82,9 +82,9 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 </a> 
 
 
-<a href="https://git.io/streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChaimaaNairi" alt="GitHub Streak" />
-</a>
+<p align="center"> 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ChaimaaNairi&theme=default)
+</p>
 
 
 </div>
