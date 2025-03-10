@@ -9,16 +9,15 @@
     <a href="https://www.credly.com/users/chaimaa-nairi"><img src="https://img.shields.io/badge/credly-%230072B0?style=flat&logo=credly&logoColor=white"/></a>
 </p>
 
-<table>
-  <tr>
-    <td>
-Hello there! I am a Data Engineer and technology enthusiast with a passion for computer engineering and development. I enjoy exploring and learning about new technologies and programming languages.
-    </td>
-    <td align="right">
-      <img src="https://github.com/user-attachments/assets/086c537e-a725-4a86-a0b6-e97526770976" alt="githubimageprofile" width="600" />
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 20px;">
+  <div style="flex: 1; min-width: 250px;">
+    <p>Hello there! I am a Data Engineer and technology enthusiast with a passion for computer engineering and development. I enjoy exploring and learning about new technologies and programming languages.</p>
+  </div>
+  <div style="flex: 1; min-width: 250px; display: flex; justify-content: flex-end;">
+    <img src="https://github.com/user-attachments/assets/086c537e-a725-4a86-a0b6-e97526770976" alt="githubimageprofile" style="width: 100%; max-width: 600px;" />
+  </div>
+</div>
+
 
 📫 **How to reach me**: [nairichaimaa@gmail.com](mailto:nairichaimaa@gmail.com)
 
