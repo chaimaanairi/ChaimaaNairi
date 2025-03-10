@@ -24,7 +24,7 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
- <!-- Programming Languages & Frameworks -->
+<!-- Programming Languages & Frameworks -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
@@ -36,7 +36,12 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="c" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45" height="45"/>
+
+<!-- Blockchain Technologies -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="solidity" width="45" height="45"/>
+<img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="ethereum" width="45" height="45"/>
+<img src="https://cryptologos.cc/logos/binance-coin-bnb-logo.svg?v=024" alt="binance smart chain" width="45" height="45"/>
+<img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=024" alt="polygon" width="45" height="45"/>
 
 <!-- Data Technologies -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
@@ -51,6 +56,7 @@ Hello there! I am a Data Engineer and technology enthusiast with a passion for c
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="unity" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
+
 
 
 </p>
