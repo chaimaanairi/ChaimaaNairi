@@ -11,9 +11,9 @@
 
 <table>
   <tr>
-    
+    <td>
       Hello! I am a Data Engineer with experience in data, AI, cloud, and blockchain technologies. Skilled in translating business needs into effective IT solutions to drive innovation and efficiency.
-    
+    </td>
   </tr>
 </table>
 
