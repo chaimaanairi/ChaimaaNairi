@@ -22,10 +22,10 @@
 
 
 📫 **How to reach me**: [nairichaimaa@gmail.com](mailto:nairichaimaa@gmail.com)
-
+<!--
 <h2> 🚀 Some Tools I Have Used and Learned</h2>
 <p align="left">
-<!-- Programming Languages & Frameworks -->
+<!-- Programming Languages & Frameworks 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jquery" width="45" height="45"/>
@@ -67,7 +67,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 </p>
 
-
+-->
 
 <h2>👨‍💻 GitHub Stats</h2>
 
