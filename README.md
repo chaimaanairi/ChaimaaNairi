@@ -24,7 +24,7 @@
 📫 **How to reach me**: [nairichaimaa@gmail.com](mailto:nairichaimaa@gmail.com)
 
 
-<h2>👨‍💻 GitHub Stats</h2>
+<h2> GitHub Stats</h2>
 
 <div align="center"> 
 
